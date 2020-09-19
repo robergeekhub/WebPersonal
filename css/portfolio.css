@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(241, 240, 239);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 80%;
+    display: flex;
+}
+
+.nombre{
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    margin-top: 1.5em;
+    margin-left: 2em;
+    font-size: 5em;
+    font-family:sans-serif;
+}
+.menu{
+    margin-top:3em;
+    margin-left:5em;
+    font-size:3em;
+}
+
+.linea{
+    background-color: grey;
+    width: 100em;
+    height: 1em;
+    margin-top:16em;
+    margin-left:-86em;
+}
+.contenido{
+    background-color: white;
+    width: 80em;
+    height: 50em;
+    margin-top:21em;
+    margin-left:-99.5em;
+}
+.proyecto{
+    font-size: 2em;
+    margin-top: 12em;
+    margin-left: -38em;
+
+}
+.buscar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 13em;
+    height: 3em;
+    margin-top:21em;
+    margin-left:10em;
+}
